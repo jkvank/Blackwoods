@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
   <TalendProperties:Project xmi:id="_0qlTQfwiEeiV-N2CKlWKIg" label="blackwoodstest" language="java" technicalLabel="BLACKWOODSTEST" author="_0qlTQvwiEeiV-N2CKlWKIg" productVersion="Talend Cloud Data Management Platform-7.0.1.20180903_1027-patch" url="{&quot;location&quot;:&quot;https://github.com/jkvank/Blackwoods.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <technicalStatus xmi:id="_1VaY8PwiEeiV-N2CKlWKIg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_1VaY8fwiEeiV-N2CKlWKIg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_1VaY8vwiEeiV-N2CKlWKIg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_1VOLsPwiEeiV-N2CKlWKIg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_1VOLsfwiEeiV-N2CKlWKIg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_1VOLsvwiEeiV-N2CKlWKIg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_1TrTkPwiEeiV-N2CKlWKIg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_1TrTkfwiEeiV-N2CKlWKIg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_1TrTkvwiEeiV-N2CKlWKIg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -26,4 +32,7 @@
     <migrationTask xmi:id="_1TrTpvwiEeiV-N2CKlWKIg" id="org.talend.repository.model.migration.RepositoryProjectDateMigrationTask" breaks="7.0.0" version="7.0.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_0qlTQvwiEeiV-N2CKlWKIg" login="jasoncarr@blackwoods.com" firstName="Jason" lastName="Carr" type="DQ"/>
+  <TalendProperties:User xmi:id="_1Vt68PwiEeiV-N2CKlWKIg" login="jkvank@blackwoods.com" firstName="Jim" lastName="van Kruyssen" type="DQ">
+    <projectAuthorization href="../C:/Users/X-JVK00/Apps/Talend-Studio/#/2"/>
+  </TalendProperties:User>
 </xmi:XMI>
